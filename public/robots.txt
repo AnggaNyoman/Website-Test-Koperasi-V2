@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mandarasedanakuta.co.id/sitemap.xml
